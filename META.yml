@@ -20,9 +20,10 @@ no_index:
     - t
     - xt
 requires:
+  Class::Accessor::Fast: 0
   HTML::TokeParser: 0
   perl: 5.8.1
 resources:
   license: http://dev.perl.org/licenses/
   repository: git://github.com/btrott/WWW-Tumblr-ThemeParser.git
-version: 0.01
+version: 0.02
